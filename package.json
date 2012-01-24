@@ -1,0 +1,17 @@
+{
+  "author": "François de Metz <francois@2metz.fr>",
+  "name": "connect_auth_github",
+  "description": "Simple connect middleware to authenticate users against github oauth",
+  "version": "0.0.2",
+  "main": "./lib/github.js",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "dependencies": {
+      "connect-auth": ""
+  },
+  "devDependencies": {}
+}
