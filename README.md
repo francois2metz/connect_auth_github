@@ -40,6 +40,10 @@ var server = connect.createServer(
 );
 ```
 
+## Example
+
+See *test/app.js*.
+
 ## License
 
 (c) 2012 François de Metz
