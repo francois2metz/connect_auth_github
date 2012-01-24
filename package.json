@@ -11,7 +11,8 @@
     "node": "~0.6.7"
   },
   "dependencies": {
-      "connect-auth": ""
+      "connect-auth": "",
+      "request": ""
   },
   "devDependencies": {}
 }
